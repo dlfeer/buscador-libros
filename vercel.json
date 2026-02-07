@@ -1,6 +1,0 @@
-{
-  "routes": [
-    { "src": "/favoritos.html", "dest": "/favoritos.html" },
-    { "src": "/(.*)", "dest": "/index.html" }
-  ]
-}
